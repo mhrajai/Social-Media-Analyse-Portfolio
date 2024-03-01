@@ -16,7 +16,6 @@ In diesem Portfolio analysieren wir verschiedene Aspekte der Social-Media-Plattf
 
 - **Follower-Wachstum:** Die Anzahl der Instagram-Follower hat sich um 45.67% erhöht, was auf ein deutliches Wachstum hindeutet.
 ![instagram](https://github.com/mhrajai/Social-Media-Analyse-Portfolio/assets/77150117/fc8efc73-d1c3-44f9-a143-f208e5181152)
-
 ## KPI für LinkedIn
 
 - **Ziel für Postanzahl:** Die geplante Anzahl der LinkedIn-Beiträge im Jahr 2022 wurde erfolgreich erreicht.
@@ -25,6 +24,5 @@ In diesem Portfolio analysieren wir verschiedene Aspekte der Social-Media-Plattf
 
 - **Follower-Wachstum:** Die Anzahl der LinkedIn-Follower hat sich um 1.33% erhöht.
 ![LinkedIn](https://github.com/mhrajai/Social-Media-Analyse-Portfolio/assets/77150117/930c9a17-7032-46cb-8046-ecd53307ca60)
-
 Diese KPIs bieten Einblicke in den Erfolg der Social-Media-Strategie auf den verschiedenen Plattformen und dienen als Grundlage für die zukünftige Optimierung und Weiterentwicklung der Social-Media-Aktivitäten.
 ![Screenshot 2024-03-01 125032](https://github.com/mhrajai/Social-Media-Analyse-Portfolio/assets/77150117/fab7a496-7064-4897-ad0d-a7d632a34432)
